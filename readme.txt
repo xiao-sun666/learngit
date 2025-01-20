@@ -6,8 +6,6 @@ Git is pretty nice.
 Git is a nice software.
 Creating a new branch is quick.
 Creating a new branch is quick & quick.
-<<<<<<< HEAD
 not OK.
-=======
 NOT OK.
->>>>>>> feature2
+is grate.
