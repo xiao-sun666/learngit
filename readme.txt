@@ -6,3 +6,4 @@ Git is pretty nice.
 Git is a nice software.
 Creating a new branch is quick.
 Creating a new branch is quick & quick.
+OK.
